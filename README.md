@@ -29,3 +29,5 @@ Por fim, os resultados (deploy) e as janelas de comparação:
 <img width="395" height="173" alt="image" src="https://github.com/user-attachments/assets/67ad0f38-e632-4486-9852-e4c1d7bacc8b" />
 
 <img width="473" height="168" alt="image" src="https://github.com/user-attachments/assets/3862d816-33a6-440a-9172-1ce8b37732fa" />
+
+<img width="247" height="79" alt="image" src="https://github.com/user-attachments/assets/77bb0151-ba9f-46df-923a-adeab4842c50" />
